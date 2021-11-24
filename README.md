@@ -12,5 +12,6 @@ and then install the inf file in the ":\Windows-driver-samples-master\Windows-dr
 back to the ":\Windows-driver-samples-master\Windows-driver-samples-master\video\IndirectDisplay\x64\Release " then run "IddSampleApp.exe " as administrator
 
 then I think the virtual monitor and the virtual graphic card should both show up ???????????
+
 IF YOU WANT TO EDIT THE FILE PLZ REDOWNLOAD FORM :https://github.com/microsoft/Windows-driver-samples YOU WILL NEED ALL OTHER SAMPLES TO COMPLITED THE BUILD WITH VISUAL STUDIO 
 2019 (ps. I don't know why it happen like this)
