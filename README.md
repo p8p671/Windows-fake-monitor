@@ -15,3 +15,4 @@ then I think the virtual monitor and the virtual graphic card should both show u
 
 IF YOU WANT TO EDIT THE FILE PLZ REDOWNLOAD FORM :https://github.com/microsoft/Windows-driver-samples YOU WILL NEED ALL OTHER SAMPLES TO COMPLITED THE BUILD WITH VISUAL STUDIO 
 2019 (ps. I don't know why it happen like this)
+![github-samll](https://cdn.discordapp.com/attachments/857047152684564523/957456110481186936/unknown.png)
