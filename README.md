@@ -23,6 +23,9 @@ and then install the inf file in the ":\Windows-driver-samples-master\Windows-dr
 ![github-samll](https://cdn.discordapp.com/attachments/857047152684564523/957828311415922698/unknown.png)
 
 back to the ":\Windows-driver-samples-master\Windows-driver-samples-master\video\IndirectDisplay\x64\Release " then run "IddSampleApp.exe " as administrator
+![github-samll](https://cdn.discordapp.com/attachments/857047152684564523/957828511287107654/unknown.png)
+
+
 
 then I think the virtual monitor and the virtual graphic card should both show up ???????????
 ![github-samll](https://cdn.discordapp.com/attachments/857047152684564523/957456110481186936/unknown.png)
